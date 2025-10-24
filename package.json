@@ -1,0 +1,20 @@
+{
+  "name": "paramount-wireless-repo",
+  "version": "1.0.0",
+  "description": "HTML Email Template with a basic JavaScript utility structure.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "email-template",
+    "git"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    
+  }
+}
